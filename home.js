@@ -94,5 +94,7 @@ function gendertype() {
 */
 
 for (var count =10; count <=100; count =count +10){
-   console.log(count); 
-   }
+   console.log(count)
+
+   
+}
