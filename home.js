@@ -74,6 +74,7 @@ verifying();
 // i = 3 --> true --> add item 
 // i = 4 --> false --> done 
 // lab07
+/*
 function gendertype() {
   var yourname = prompt("what is your name? ");
   var gender = prompt("what is your gender: ");
@@ -88,8 +89,10 @@ function gendertype() {
   //output
   return gender;
 }/*
-var hobby = prompt ("what is your hobby")
-var YourHobby =function(){
-while ( hobby == "skiing" && hobby == "running")
-return hobby; 
-} */ 
+
+//lab08
+*/
+
+for (var count =10; count <=100; count =count +10){
+   console.log(count); 
+   }
