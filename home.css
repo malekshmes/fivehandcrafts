@@ -2,21 +2,26 @@ h1{
     text-align: center;
     font-size: 50px;
     color: white;
+    margin: 0px 0px;
   }
   ul li {
     display: inline;
     padding-left: 100px;
      margin: 10px 10px;
      color: rgb(209, 199, 218);
+     font-size: 30px;
   }
   header {
     background-color: gray;
    height: 200px;
+   margin: 0px 0px;
    font-family: Arial, Helvetica, sans-serif;
   }
   main {
     background-color: rgb(91, 175, 90);
     padding: 200px;
+    font-size: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   }
   article {
   padding-left: 50px;
